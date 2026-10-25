@@ -1,0 +1,26 @@
+[
+  {
+    "name": "readers",
+    "type": "collection"
+  },
+  {
+    "name": "book_logs",
+    "type": "collection"
+  },
+  {
+    "name": "borrow_logs",
+    "type": "timeseries"
+  },
+  {
+    "name": "books",
+    "type": "collection"
+  },
+  {
+    "name": "category_stats",
+    "type": "collection"
+  },
+  {
+    "name": "book_in_stock",
+    "type": "view"
+  }
+]
